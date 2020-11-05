@@ -1,0 +1,1 @@
+gcc -o 0x02_arm_32_hacking_int 0x02_arm_32_hacking_int.c
