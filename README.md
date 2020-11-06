@@ -1,6 +1,6 @@
 ![image](https://github.com/mytechnotalent/0x02_arm_32_hacking_int/blob/main/RPI32AAHI.png?raw=true)
 
-# 0x03_arm_32_hacking_int
+# 0x02_arm_32_hacking_int
 ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.
 
 ## Schematic
