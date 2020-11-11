@@ -74,7 +74,7 @@ q
 
 ## STEP 12: Run Radare2 - Debug Step 3 [Hack int]
 ```
-wa mov r3, 0xd @0x00470512
+[0x0041b50c]> wa mov r3, 0xd @0x00470512
 ```
 
 ## STEP 13: Run Radare2 - Debug Step 4 [Review Hack]
