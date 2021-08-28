@@ -3,6 +3,16 @@
 # 0x02_arm_32_hacking_int
 ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.
 
+<br>
+
+## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+
+<br>
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 ## Schematic
 ![image](https://github.com/mytechnotalent/0x02_arm_32_hacking_int/blob/main/schematic.png?raw=true)
 
